@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=footer&text=gany_github!%20🚗🚘🚛&fontSize=70&fontAlignY=50&desc=blinking&descAlignY=50&descAlign=50)
 
 
