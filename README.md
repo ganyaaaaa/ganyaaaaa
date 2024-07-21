@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
-![header](https://capsule-render.vercel.app/api?type=egg&0:EEFF00,100:a82da8&height=300&section=header&text=Gany%20Github!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=0:EEFF00,100:a82da8&height=300&section=header&text=Gany%20Github!&fontSize=90)
 
 Here are some ideas to get you started:
 
