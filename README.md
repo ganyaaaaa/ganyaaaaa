@@ -1,26 +1,18 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F6D8CE,100:E2A9F3&height=200&section=footer&text=gany_github!%20🐤🐣🐥🍀&fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn)
 
+
 ### 🚀 Follow Me 🚀
 <a href="https://www.instagram.com/gaxnni?igsh=MWtiaDE3NDNkZno4eQ%3D%3D&utm_source=qr">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Java&logoColor=white"&link=[https://yeonyeon.tistory.com](https://www.instagram.com/gaxnni?igsh=MWtiaDE3NDNkZno4eQ%3D%3D&utm_source=qr)"/>
+</a>   <a href="https://blog.naver.com/gaeun2615">
+  <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Java&logoColor=white"&link=https://blog.naver.com/gaeun2615"/>
 </a>
-  
-
 
 
   
 ### 📘 Tech Stack 📙
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/pcplusplus-00599C?style=flat-square&logo=Java&logoColor=white"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganyaaaaa)](https://github.com/anuraghazra/github-readme-stats)
