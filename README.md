@@ -4,7 +4,7 @@
 ### 🚀 Follow Me 🚀
 
 ### 📘 Tech Stack 📙
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/pcplusplus-00599C?style=flat-square&logo=Java&logoColor=white"/>
 
 Here are some ideas to get you started:
 
