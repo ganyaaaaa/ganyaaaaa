@@ -1,10 +1,10 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F6D8CE,100:E2A9F3&height=200&section=footer&text=gany_github!%20🐤🐣🐥🍀&fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F6D8CE,100:E2A9F3&height=200&section=footer&text=gany&20github!%20🐤🐣🐥🍀&fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn)
 
 ### 🚀 Follow Me 🚀
 
 ### 📘 Tech Stack 📙
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Java&logoColor=white"/> %30 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Java&logoColor=white"/>
 
 Here are some ideas to get you started:
 
