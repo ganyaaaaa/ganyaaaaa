@@ -12,8 +12,29 @@
 
   
 ### 📘 Tech Stack 📙
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=Java&logoColor=white"/>
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+![dart](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+
+### 📱 Contact
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+### 🤜🤛 Group
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+![Discord](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+
+![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganyaaaaa)](https://github.com/anuraghazra/github-readme-stats)
