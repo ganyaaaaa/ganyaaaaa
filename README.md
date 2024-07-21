@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=footer&text=gany_github!%20🚗🚘🚛&fontAlign=70)
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:F8E6E0,100:DA81F5&height=300&section=header&text=Gany%20Github!&fontColor=A4A4A4&fontSize=90)
 
 Here are some ideas to get you started:
