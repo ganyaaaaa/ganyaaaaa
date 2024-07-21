@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F6D8CE,100:E2A9F3&height=200&section=footer&text=gany&20github!%20🐤🐣🐥🍀&fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F6D8CE,100:E2A9F3&height=200&section=footer&text=gany_github!%20🐤🐣🐥🍀&fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn)
 
 ### 🚀 Follow Me 🚀
 
