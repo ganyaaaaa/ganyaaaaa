@@ -5,7 +5,8 @@
 ### 🚀 Follow Me 🚀
 <a href="https://www.instagram.com/gaxnni?igsh=MWtiaDE3NDNkZno4eQ%3D%3D&utm_source=qr">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Java&logoColor=white"&link=[https://yeonyeon.tistory.com](https://www.instagram.com/gaxnni?igsh=MWtiaDE3NDNkZno4eQ%3D%3D&utm_source=qr)"/>
-</a>   <a href="https://blog.naver.com/gaeun2615">
+</a>
+<a href="https://blog.naver.com/gaeun2615">
   <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Java&logoColor=white"&link=https://blog.naver.com/gaeun2615"/>
 </a>
 
