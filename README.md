@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
+![header](https://capsule-render.vercel.app/api?type=https://github.com/kyechan99/capsule-render?tab=readme-ov-file#waving-)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
