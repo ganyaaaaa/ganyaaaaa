@@ -5,12 +5,9 @@
 ### 🚀 Follow Me 🚀
 <a href="https://www.instagram.com/gaxnni?igsh=MWtiaDE3NDNkZno4eQ%3D%3D&utm_source=qr">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"&link=[https://yeonyeon.tistory.com](https://www.instagram.com/gaxnni?igsh=MWtiaDE3NDNkZno4eQ%3D%3D&utm_source=qr)"/>
-<a href="https://velog.io/@gany/posts">
-  <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Java&logoColor=white"&link=https://velog.io/@gany/posts"/>
 <a href="https://www.linkedin.com/in/%EA%B0%80%EC%9D%80-%EA%B9%80-2a0533296/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"&link=https://www.linkedin.com/in/%EA%B0%80%EC%9D%80-%EA%B9%80-2a0533296/>
 </a>
-
 <a href="https://velog.io/@gany">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
