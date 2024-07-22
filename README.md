@@ -11,7 +11,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"&link=https://www.linkedin.com/in/%EA%B0%80%EC%9D%80-%EA%B9%80-2a0533296/>
 </a>
 
-
+<a href="https://velog.io/@gany">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
 
   
 ### 📘 Tech Stack 📙
