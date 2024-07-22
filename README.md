@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Java&logoColor=white"&link=https://velog.io/@gany/posts"/>
 </a>
 
+<a href="https://www.linkedin.com/in/%EA%B0%80%EC%9D%80-%EA%B9%80-2a0533296/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"&link=https://www.linkedin.com/in/%EA%B0%80%EC%9D%80-%EA%B9%80-2a0533296/>
+</a>
 
   
 ### 📘 Tech Stack 📙
