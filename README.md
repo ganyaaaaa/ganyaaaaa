@@ -24,9 +24,7 @@
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) ![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganyaaaaa&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganyaaaaa)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganyaaaaa&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganyaaaaa)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gaeun2615)](https://solved.ac/gaeun2615)
 
