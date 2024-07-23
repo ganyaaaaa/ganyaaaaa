@@ -28,6 +28,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganyaaaaa)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gaeun2615)](https://solved.ac/gaeun2615)
 
 <details>
 <summary>
